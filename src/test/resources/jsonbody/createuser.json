@@ -1,0 +1,6 @@
+{
+    "name": "yogesh",
+    "gender": "male",
+    "email": "{{$randomEmail}}",
+    "status": "active"
+}
